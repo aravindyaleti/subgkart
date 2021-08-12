@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854028131479",
+    "firebase_url": "https://subgkart.firebaseio.com",
+    "project_id": "subgkart",
+    "storage_bucket": "subgkart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854028131479:android:225380160329f2d7b9ddd2",
+        "android_client_info": {
+          "package_name": "com.diatus.subgkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854028131479-clc4dm7ofbk29rau1qecuvg2o7r61cqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzDa-dyNPmN5hN9NqdgbIzwjwF4It8Opg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854028131479-clc4dm7ofbk29rau1qecuvg2o7r61cqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
